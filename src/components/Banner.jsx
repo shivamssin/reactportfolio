@@ -31,7 +31,7 @@ const Banner = () => {
       }}
       className="main-container flex items-center"
     >
-      {/* first dabba */}
+      {/* first box */}
       <div className="w-full flex items-center justify-center text-white ">
         {/* text */}
         <div className="w-2/3 space-y-2  ms-10">
@@ -67,7 +67,7 @@ const Banner = () => {
         </div>
       </div>
 
-      {/* second  dabba */}
+      {/* second  box */}
 
       <div className=" w-full flex justify-center">
         {/* image */}

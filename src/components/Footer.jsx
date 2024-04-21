@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="py-5 border bg-gray-100 flex justify-between px-72">
         <div>
           <p>
-            @2024 Shivam Sinha <span>All Rights Reserved</span>
+          &#169; 2024 Shivam Sinha <span> All Rights Reserved</span>
           </p>
         </div>
         <div className="space-x-5">
